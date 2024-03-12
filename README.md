@@ -1,4 +1,3 @@
 # Chair SMP temporary website
-### Latest update (3/11/24):
-- Updated code format to HTML5 for compatibility
-- Currently no connection between domain and MC server
+### Latest update (3.12A.24):
+- Added an info.txt file to website directory. Should not mess up anything in Minecraft.
